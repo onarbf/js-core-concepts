@@ -1,0 +1,1 @@
+This [[Paradigm]] organizes the code into functions, and the adaptions of those funcionts as values.

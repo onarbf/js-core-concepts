@@ -1,0 +1,1 @@
+A [[Paradigm]] of language that collect the code logic and data in units called Classes.

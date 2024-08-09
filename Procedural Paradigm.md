@@ -1,0 +1,1 @@
+A [[Paradigm]] that structures the code in a top-down, linear progression throug a pre-determined set of operations. usually collected together in related unit called procedures.

@@ -1,0 +1,1 @@
+The actual version of [[ECMAScript]]. Synonym of [[ES14]]

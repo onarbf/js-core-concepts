@@ -1,0 +1,1 @@
+its the most popular, open-source module bundler of [[Javascript]]. It prepares the code in different files, chunking and spliting it.

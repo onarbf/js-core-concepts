@@ -1,0 +1,1 @@
+The `var` keyword declares a [[Variable]] to be used in that part of the program, and optionally allows an initial assignment of a [[Value]].

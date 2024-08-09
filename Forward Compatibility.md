@@ -1,0 +1,1 @@
+Similar to [[Backward Compatibility]]¡, but inverted. What it means this design principle is that whatever you are designing, you make it thinking on the future compatibility, so you are trying to calculate and foresee what will be needed in a future.
